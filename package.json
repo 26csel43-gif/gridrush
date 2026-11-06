@@ -1,0 +1,16 @@
+{
+  "name": "gridrush",
+  "version": "1.0.0",
+  "description": "Go Kart Booking Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "connect-mongo": "^6.0.0",
+    "express": "*",
+    "express-session": "^1.19.0",
+    "mongodb": "*"
+  }
+}
